@@ -5,6 +5,10 @@
 
 ![O.R.E.O. Badge Guide](images/Guide.png?raw=true "O.R.E.O. Badge Guide")
 
+## Printable Stand
+
+There is a 3D printable stand included to show off your badge! `Display Stand.stl`
+
 ## Hacking
 
 See below for Arduino environment setup, programming guide, and some tips for adding your own lighting modes!
