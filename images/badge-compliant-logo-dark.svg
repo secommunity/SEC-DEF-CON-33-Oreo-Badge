@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="60" viewBox="0 0 300 60" style="font-family: sans-serif;">
+  <rect x="0" y="0" width="300" height="60" fill="#222" rx="8" ry="8"/>
+  <circle cx="30" cy="30" r="20" fill="#4CAF50"/>
+  <path d="M22 30 l6 6 l12 -12" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="70" y="26" fill="white" font-size="16" font-weight="bold">B.A.D.G.E. Compliant</text>
+  <text x="70" y="46" fill="lightgray" font-size="14">Blink Responsibly</text>
+</svg>
